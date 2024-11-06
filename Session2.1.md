@@ -9,7 +9,7 @@ Please find slides for Manual Genome Curation overview and Asssembly Metrics at 
 - Heterozygosity
 - Repeats
 - Did purging work?
--Describe in a few words how you would expect the HiC map to be?  Which would be the main challenges for curation?
+- Describe in a few words how you would expect the HiC map to be?  Which would be the main challenges for curation?
 - Would you suggest any alternatives/approaches to cope with the difficulties faced during manual curation?
 
 
