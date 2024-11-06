@@ -30,10 +30,10 @@ What would you say about:
 
 ## 2.	Can you spot what has been wrong with these two assemblies?
 
-A.
+**A.**
 
 <img src="docs/Session2.1_fig_5.png" width="600"/>
 
-B.
+**B.**
 
 <img src="docs/Session2.1_fig_6.png" width="600"/>
