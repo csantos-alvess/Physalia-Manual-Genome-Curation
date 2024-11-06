@@ -28,7 +28,7 @@ What would you say about:
 <img src="docs/Session2.1_fig_4.png" width="550"/>
 
 
-2.	Can you spot what has been wrong with these two assemblies?
+## 2.	Can you spot what has been wrong with these two assemblies?
 
 A.
 
