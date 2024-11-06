@@ -15,7 +15,8 @@ Please find slides for Manual Genome Curation overview and Asssembly Metrics at 
 
 A. Dicot plant (ddCarFlex1)
 
-![k-mer plot distribution] (docs/Session2.1_fig_1.png)
+
+![k-mer plot distribution](docs/Session2.1_fig_1.png)
 
 ![Some assembly metrics] (docs/Session2.1_fig_2.png)
 
