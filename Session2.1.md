@@ -4,7 +4,7 @@
 
 Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
 
-1. Have a look at the k-mer distribution and some stats of these two assemblies.What would you say about:
+## 1. Have a look at the k-mer distribution and some stats of these two assemblies.What would you say about:
 
 - Heterozygosity
 - Repeats
@@ -15,11 +15,9 @@ Please find slides for Manual Genome Curation overview and Asssembly Metrics at 
 
 **A. Dicot plant (ddCarFlex1)**
 
-<img src="docs/Session2.1_fig_1.png" width="600"/>
+<img src="docs/Session2.1_fig_1.png" width="450"/>
 
-![k-mer plot distribution](docs/Session2.1_fig_1.png)
-
-![Some assembly metrics](docs/Session2.1_fig_2.png)
+<img src="docs/Session2.1_fig_2.png" width="600"/>
 
 **B. Coleoptera (icBruVari1)**
 
