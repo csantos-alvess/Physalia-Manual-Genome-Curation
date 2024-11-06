@@ -15,23 +15,23 @@ Please find slides for Manual Genome Curation overview and Asssembly Metrics at 
 
 A. Dicot plant (ddCarFlex1)
 
-![k-mer plot distribution] (/docs/Session2.1_fig_1.png)
+![k-mer plot distribution] (docs/Session2.1_fig_1.png)
 
-![Some assembly metrics] (/docs/Session2.1_fig_2.png)
+![Some assembly metrics] (docs/Session2.1_fig_2.png)
 
 B. Coleoptera (icBruVari1)
 
-![k-mer plot distribution] (/docs/Session2.1_fig_3.png)
+![k-mer plot distribution] (docs/Session2.1_fig_3.png)
 
-![Some assembly metrics] (/docs/Session2.1_fig_4.png)
+![Some assembly metrics] (docs/Session2.1_fig_4.png)
 
 
 2.	Can you spot what has been wrong with these two assemblies?
 
 A.
 
-![HiC map] (/docs/Session2.1_fig_5.png)
+![HiC map] (docs/Session2.1_fig_5.png)
 
 B.
 
-![HiC map] (/docs/Session2.1_fig_6.png)
+![HiC map] (docs/Session2.1_fig_6.png)
