@@ -47,7 +47,7 @@ Choose one of the following to start:
 - icPolPter2 (coleoptera)
 - ilCycPunc2 (lepdopitera)
 
-Check if these genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes using Nucmer output files.
+Check if these genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes. You may use Nucmer output files or PacBio reads coverage.
 
 > [!IMPORTANT]
 > At the end of the curation process, check if you:
