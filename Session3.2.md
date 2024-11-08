@@ -62,10 +62,10 @@ Check if the insect genomes belong to homogametic or heterogametic samples and t
 
 > [!IMPORTANT]
 > At the end of the curation process, check if you:
-> Made all the necessary rearrangements in the map
-> Added metadata
-> Painted chromosomes
-> Generated AGP file
+> 1. Made all the necessary rearrangements in the map
+> 2. Added metadata
+> 3. Painted chromosomes
+> 4. Generated AGP file
 
 
 
