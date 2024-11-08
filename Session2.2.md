@@ -50,3 +50,13 @@ B. If you are running it locally, you should download data from Google Drive usi
  3. Have you found remaining organelle scaffolds?
 
 Now have a look at the decontaminated fasta files you just downloaded in Gitpod. Check if the number of scaffolds changed and if some of the scaffolds you detected as potential contamination were removed from the decontaminated fasta files.
+
+Tip: You can use 
+
+```
+
+grep -c <decont_fasta>
+
+```
+
+for counting how many scaffolds you have in your assembly.
