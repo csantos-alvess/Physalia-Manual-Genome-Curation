@@ -39,19 +39,19 @@ gdown --folder 1LzfDf1dW6OCSfvUp4SkYpgRl24G8fSEE
 B. If you are running it locally, you should download data from Google Drive using the link above or use gdown in your laptop terminal.
 
 
-## Start practicing manual curation on 3 insect genomes. These will be all single haplotype maps.
+# Start practicing manual curation on 3 insect genomes. These will be all single haplotype maps.
 
 Choose one of the following to start:
 
-ilCalCecr1 (lepdopitera)
-icPolPter2 (coleoptera)
-ilCycPunc2 (lepdopitera)
+- ilCalCecr1 (lepdopitera)
+- icPolPter2 (coleoptera)
+- ilCycPunc2 (lepdopitera)
 
 Check if these genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes using Nucmer output files.
 
 > [!IMPORTANT]
-> At the end of the curation process, check if you:
-> Made all the necessary rearrangements in the map
-> Added metadata
-> Painted chromosomes
-> Generated AGP file
+> 1. At the end of the curation process, check if you:
+> 2. Made all the necessary rearrangements in the map
+> 3. Added metadata
+> 4. Painted chromosomes
+> 5. Generated AGP file
