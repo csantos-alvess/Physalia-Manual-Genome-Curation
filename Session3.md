@@ -39,7 +39,7 @@ gdown --folder 1LzfDf1dW6OCSfvUp4SkYpgRl24G8fSEE
 B. If you are running it locally, you should download data from Google Drive using the link above or use gdown in your laptop terminal.
 
 
-# Start practicing manual curation on 3 insect genomes. These will be all single haplotype maps.
+**Start practicing manual curation on 3 insect genomes. These will be all single haplotype maps.**
 
 Choose one of the following to start:
 
@@ -50,8 +50,8 @@ Choose one of the following to start:
 Check if these genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes using Nucmer output files.
 
 > [!IMPORTANT]
-> 1. At the end of the curation process, check if you:
-> 2. Made all the necessary rearrangements in the map
-> 3. Added metadata
-> 4. Painted chromosomes
-> 5. Generated AGP file
+> At the end of the curation process, check if you:
+> 1. Made all the necessary rearrangements in the map
+> 2. Added metadata
+> 3. Painted chromosomes
+> 4. Generated AGP file
