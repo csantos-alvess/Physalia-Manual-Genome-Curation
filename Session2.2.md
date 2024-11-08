@@ -60,4 +60,4 @@ grep -c <decont_fasta>
 
 ```
 
-for counting how many scaffolds you have in your assembly.
+> for counting how many scaffolds you have in your assembly.
