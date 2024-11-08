@@ -45,8 +45,8 @@ B. If you are running it locally, you should download data from Google Drive usi
 - Medium: icMagCera1.20240711.hap1.fa (coleoptera)
 - Hard: wsRidPisc1.20240921.haplotigs.fa (annelid)
 
-  Which steps would you follow to remove prokaryote contamination?
-  And eukaryotic one?
-  Have you found remaining organelle scaffolds?
+ 1. Which steps would you follow to remove prokaryote contamination?
+ 2. And eukaryotic one?
+ 3. Have you found remaining organelle scaffolds?
 
 Now have a look at the decontaminated fasta files you just downloaded in Gitpod. Check if the number of scaffolds changed and if some of the scaffolds you detected as potential contamination were removed from the decontaminated fasta files.
