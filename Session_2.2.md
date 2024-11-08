@@ -39,14 +39,14 @@ gdown --folder 1vyRID2npv7Q6FTpKHLxXkle_fXS7jowJ
 B. If you are running it locally, you should download data from Google Drive using the link above or use gdown in your laptop terminal.
 
 
-## Visualize the following datasets in BTK Sanger BTK viewer (https://grit-btk.tol.sanger.ac.uk) 
+## Visualize the following datasets in Sanger BTK viewer (https://grit-btk.tol.sanger.ac.uk) 
 
 - Easy: daNymPelt1.20241015.hap2.fa (dicot)
 - Medium: icMagCera1.20240711.hap1.fa (coleoptera)
 - Hard: wsRidPisc1.20240921.haplotigs.fa (annelid)
 
-Which steps would you follow to remove prokaryote contamination?
-And eukaryotic one?
-Have you found remaining organelle scaffolds?
+- Which steps would you follow to remove prokaryote contamination?
+- And eukaryotic one?
+- Have you found remaining organelle scaffolds?
 
 Now have a look at the decontaminated fasta files you just downloaded in Gitpod. Check if the number of scaffolds changed and if some of the scaffolds you detected as potential contamination were removed from the decontaminated fasta files.
