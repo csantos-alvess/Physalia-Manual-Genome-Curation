@@ -1,6 +1,6 @@
 # Hands-on Manual Genome Curation Physalia course - Day 2
 
-**Session 3: Beginning manual curation**
+**Session 3: Beginning manual curation (Single haplotype curation)**
 
 Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
 
