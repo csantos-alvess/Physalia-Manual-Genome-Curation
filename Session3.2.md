@@ -67,6 +67,110 @@ Check if the insect genomes belong to homogametic or heterogametic samples and t
 > 3. Painted chromosomes
 > 4. Generated AGP file
 
+##Generate fasta files for single and dual curation maps##
+
+In GitPod:
+
+Go to the assembly directory,
+
+**Step 1. Run rapid_split on your decontaminated, pre-curation fasta file to create a tpf:**
+
+```
+
+perl /workspace/rapid-curation/rapid_split.pl -fa <your_fasta.fa>
+
+```
+
+Now you have a .tpf file from your original fasta named original.fa.tpf.
+
+
+**Step 2. Run pretext-to-tpf:**
+
+To run pretext-to-tpf type the alias ‘ptt’ in the terminal), as the following:
+
+```
+ptt -a original.fa.tpf -p <your_species>.agp_1 -o <output_name>.tpf -w -f
+
+```
+
+
+```
+-w: overwrite 
+-f: force to run and overwrite
+```
+
+Let's assume you chose to name your output file as 'curated'. Then, the output files will be:
+
+A. Single haplotype
+
+```
+curated_Haplotigs.tpf
+curated_curated.tpf
+chrs.csv
+
+```
+
+B. Dual curation:
+
+```
+curated_Haplotigs.tpf
+curated_HAP1.tpf
+curated_HAP2.tpf
+chrs_HAP1.csv
+chrs_HAP2.csv
+curated.log
+
+```
+
+**Step 3. Run multi_join. This is what generates a new fasta file from the curation manipulations**
+
+A. Single hap curation:
+
+```
+python /workspace/rapid-curation/multi_join.py \
+-t curated_HAP1.tpf \
+-f original.fa \
+-c chrs.csv \
+-o <output_name>
+
+```
+
+B. Dual hap curation:
+
+```
+python /workspace/rapid-curation/multi_join.py \
+-t curated_HAP1.tpf \
+-t2 curated_HAP2.tpf \
+-f original.fa \
+-c chrs_HAP1.csv \
+-c2 chrs_HAP2.csv \
+-o <output_name>
+
+```
+
+Output files from single hap curation:
+
+```
+<tolid>.1.additional_haplotigs.curated.fa
+<tolid>.1.inter.csv
+<tolid>.1.primary.chromosome.list.csv
+<tolid>.1.primary.curated.fa
+```
+
+Output files from dual curation:
+
+```
+<tolid>.hap1.1.all_haplotigs.curated.fa
+<tolid>.hap1.1.inter.csv
+<tolid>.hap1.1.primary.chromosome.list.csv
+<tolid>.hap1.1.primary.curated.fa
+<tolid>.hap2.1.all_haplotigs.curated.fa
+<tolid>.hap2.1.inter.csv
+<tolid>.hap2.1.primary.chromosome.list.csv
+<tolid>.hap2.1.primary.curated.fa
+```
+
+
 
 
 
