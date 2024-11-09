@@ -28,6 +28,10 @@ Then:
 tar xvfJ Day_3.tar.xz
 ```
 
+If you are locally, you also need to download ```rapid_curation ``` scripts from here: https://github.com/sanger-tol/rapid-curation/blob/main/
+
+
+
 ## Now we have 3 dual curation maps for curation:
 
 Choose one of the following to work on:
