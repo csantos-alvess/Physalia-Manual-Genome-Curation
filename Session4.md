@@ -32,14 +32,12 @@ tar xvfJ Day_4.tar.xz
 
 ## For this session, we will focus on bird microchromosomes.
 
-Today, we are going to start with single haplotype maps and tomorrow we will move to dual curation maps.
+Today, we are going to start with single haplotype maps and tomorrow we will move to dual curation ones.
 
-Choose one of the bird assemblies to work on:
+Choose one of the bird assemblies to work on. These maps already have MicroFinder results on them, look at the top of the maps:
 
-These maps already have MicroFinder results on them, look at the top of the map.
-
-- bBucCla1 (merged_first_pass_max_20Mb_hr.pretext)
-- bAnsBra1 (bAnsBra1_1_micros_hr.pretext)
+- bBucCla1 ``` (merged_first_pass_max_20Mb_hr.pretext) ```
+- bAnsBra1 ``` (bAnsBra1_1_micros_hr.pretext) ```
 
 
 Both species have a karyotype of n = 40.
