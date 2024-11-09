@@ -29,6 +29,7 @@ Then:
 tar xvfJ Day_4.tar.xz
 ```
 
+If you are locally, you also need to download ```rapid_curation ``` scripts from here: https://github.com/sanger-tol/rapid-curation/blob/main/
 
 ## For this session, we will focus on bird microchromosomes.
 
