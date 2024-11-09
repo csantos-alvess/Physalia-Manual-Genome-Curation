@@ -50,8 +50,8 @@ Both species have a karyotype of n = 40.
 
 
 > [!TIP]
-> Use the nucmer alignments to assemble the micros (identify the order the scaffolds go to make a full micro)
-> Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check the data available for your assembly.
+> 1. Use the nucmer alignments to assemble the micros (identify the order the scaffolds go to make a full micro)
+> 2. Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check the data available for your assembly.
 
 
 A. How many chromosomes can you see assembled when you open the map? Is it close to the karyotype number? Try to identify and assemble the microchomosomes.
