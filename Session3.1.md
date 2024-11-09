@@ -28,6 +28,8 @@ Then:
 tar xvfJ Day_2.tar.xz
 ```
 
+If you are locally, you also need to download ```rapid_curation ``` scripts from here: https://github.com/sanger-tol/rapid-curation/blob/main/README.md
+
 **Start practicing manual curation on 3 insect genomes. These will be all single haplotype maps.**
 
 Choose one of the following to start:
