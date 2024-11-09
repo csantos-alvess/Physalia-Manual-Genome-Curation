@@ -4,6 +4,7 @@
 
 Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
 
+
 ## 1. Have a look at the k-mer distribution and some stats of these two assemblies
 
 What would you say about:
