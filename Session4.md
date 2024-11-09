@@ -54,8 +54,9 @@ Both species have a karyotype of n = 40.
 > 2. Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check the data available for your assembly.
 
 
-A. How many chromosomes can you see assembled when you open the map? Is it close to the karyotype number? Try to identify and assemble the microchomosomes.
-B. Are you curating a homogametic or heterogametic sex individual? Try to identify and assign sex chromosomes. Can you see something unexpected about the sex chromosomes?
+Question 1. How many chromosomes can you see assembled when you open the map? Is it close to the karyotype number? Try to identify and assemble the microchomosomes.
+
+Question 2. Are you curating a homogametic or heterogametic sex individual? Try to identify and assign sex chromosomes. Can you see something unexpected about the sex chromosomes?
 
 > [!IMPORTANT]
 > At the end of the curation process, check if you:
