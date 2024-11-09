@@ -15,6 +15,8 @@ What would you say about:
 - Describe in a few words how you would expect the HiC map to be?  Which would be the main challenges for curation?
 - Would you suggest any alternatives/approaches to cope with the difficulties faced during manual curation?
 
+Feel free to explore the tolqc website (https://tolqc.cog.sanger.ac.uk). Just type the tolid on the top left and have a look at some assembly stats.
+
 
 **A. Dicot plant (ddCarFlex1)**
 
