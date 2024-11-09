@@ -41,7 +41,7 @@ B. If you are running it locally, you should download data from Google Drive usi
 
 ## Now we have 3 dual curation maps for curation:
 
-Choose one of the following to start:
+Choose one of the following to work on:
 
 - drRubCaes1 (dicot)
 - idPolLara1 (diptera)
@@ -67,7 +67,7 @@ Check if the insect genomes belong to homogametic or heterogametic samples and t
 > 3. Painted chromosomes
 > 4. Generated AGP file
 
-##Generate fasta files for single and dual curation maps##
+## Generate fasta files for single and dual curation maps
 
 In GitPod:
 
