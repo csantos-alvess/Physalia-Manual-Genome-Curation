@@ -133,6 +133,7 @@ python /workspace/rapid-curation/multi_join.py \
 -o <output_name>
 
 ```
+If you have detected haplotigs during the curation process, you can provide the ```-d``` option to the script, followed by the ```curated_Haplotigs.tpf``` file generated from ptt.
 
 **B. Dual hap curation:**
 
