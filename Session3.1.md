@@ -15,29 +15,18 @@ export PATH=/workspace/mambaforge/bin/:$PATH
 
 ```
 
-Now you need to download the data we are going to use in this session:
+Now you need to download the data we are going to use in this session. You can download it to GitPod or locally to your laptop, as follows:
 
-A. From gitpod:
-
-```
-gdown --folder <link_to_folder_in_google_drive>
 
 ```
-
-For example, for the following link:
-https://drive.google.com/drive/folders/1LzfDf1dW6OCSfvUp4SkYpgRl24G8fSEE?usp=share_link
-
-You are going to use in the command-line only the region between the last slash and the question mark, like this: 1LzfDf1dW6OCSfvUp4SkYpgRl24G8fSEE
-
-So, the command-line will be like this:
-
-```
-gdown --folder 1LzfDf1dW6OCSfvUp4SkYpgRl24G8fSEE
-
+wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_2.tar.xz
 ```
 
-B. If you are running it locally, you should download data from Google Drive using the link above or use gdown in your laptop terminal.
+Then:
 
+```
+tar xvfJ Day_2.tar.xz
+```
 
 **Start practicing manual curation on 3 insect genomes. These will be all single haplotype maps.**
 
