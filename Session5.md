@@ -52,7 +52,7 @@ Below we have 3 challenging genomes and you can choose any of them to work on to
 > 1. Use the nucmer alignments to assemble the micros (identify the order the scaffolds go to make a full micro)
 > 2. Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check the data available for your assembly.
 
-Which were the main difficulties you found while working on these genomes?
+**Which were the main difficulties you found while working on these genomes?**
 
 > [!IMPORTANT]
 > At the end of the curation process, check if you:
@@ -114,10 +114,7 @@ curated_HAP2.tpf
 chrs_HAP1.csv
 chrs_HAP2.csv
 curated.log
-
 ```
-
-If you have detected haplotigs during the curation process, you can provide the ```-d``` option to the script, followed by the ```curated_Haplotigs.tpf``` file generated from ptt.
 
 
 **Output files from dual curation:**
