@@ -45,8 +45,8 @@ Both species have a karyotype of n = 40.
 **The goal here is you to work on the micro and sex chromosomes as much as you can, saving time at the end to generate the curated fasta file.**
 
 > [!IMPORTANT]
-> If you are using Gitpod, choose the high resolution map to curate. As microchromosomes are small, you can have a greater magnification on them when you use highres maps.
-> If you are running locally, highres maps usually require much more RAM memory to load than normal resolution ones. In case your laptop cannot open a high res map, choose the normal res one or move to Gitpod.
+> 1. If you are using Gitpod, choose the high resolution map to curate. As microchromosomes are small, you can have a greater magnification on them when you use highres maps.
+> 2. If you are running locally, highres maps usually require much more RAM memory to load than normal resolution ones. In case your laptop cannot open a high res map, choose the normal res one or move to Gitpod.
 
 
 - How many chromosomes can you see assembled when you open the map? Is it close to the karyotype number? Try to identify and assemble the microchomosomes.
