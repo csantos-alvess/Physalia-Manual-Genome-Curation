@@ -29,6 +29,9 @@ Then:
 tar xvfJ Day_5.tar.xz
 ```
 
+If you are locally, you also need to download ```rapid_curation ``` scripts from here: https://github.com/sanger-tol/rapid-curation/blob/main/
+
+
 
 ## Today, we are working on dual haplotype maps.
 
