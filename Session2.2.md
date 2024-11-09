@@ -15,28 +15,18 @@ export PATH=/workspace/mambaforge/bin/:$PATH
 
 ```
 
-#Now you need to download the data we are going to use in this session:
+Now you need to download the data we are going to use in this session. You can download it to GitPod or locally to your laptop, as follows:
 
-A. From gitpod:
-
-```
-gdown --folder <link_to_folder_in_google_drive>
 
 ```
-
-For example, for the following link:
-https://drive.google.com/drive/folders/1vyRID2npv7Q6FTpKHLxXkle_fXS7jowJ?usp=share_link
-
-You are going to use in the command-line only the region between the last slash and the question mark, like this: 1vyRID2npv7Q6FTpKHLxXkle_fXS7jowJ
-
-So, the command-line will be like this:
-
-```
-gdown --folder 1vyRID2npv7Q6FTpKHLxXkle_fXS7jowJ
-
+wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_1.tar.xz
 ```
 
-B. If you are running it locally, you should download data from Google Drive using the link above or use gdown in your laptop terminal.
+Then:
+
+```
+tar xvfJ Day_1.tar.xz
+```
 
 
 ## Visualize the following datasets in Sanger BTK viewer (https://grit-btk.tol.sanger.ac.uk) 
