@@ -49,13 +49,13 @@ Both species have a karyotype of n = 40.
 > 2. If you are running locally, highres maps usually require much more RAM memory to load than normal resolution ones. In case your laptop cannot open a high res map, choose the normal res one or move to Gitpod.
 
 
-- How many chromosomes can you see assembled when you open the map? Is it close to the karyotype number? Try to identify and assemble the microchomosomes.
-
 > [!TIP]
-> Use the nucmer alignments to assemble the micros
-> Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check the data available for your assembly. 
+> Use the nucmer alignments to assemble the micros (identify the order the scaffolds go to make a full micro)
+> Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check the data available for your assembly.
 
-- Are you curating a homogametic or heterogametic sex individual? Try to identify and assign sex chromosomes. Can you see something unexpected about the sex chromosomes?
+
+A. How many chromosomes can you see assembled when you open the map? Is it close to the karyotype number? Try to identify and assemble the microchomosomes.
+B. Are you curating a homogametic or heterogametic sex individual? Try to identify and assign sex chromosomes. Can you see something unexpected about the sex chromosomes?
 
 > [!IMPORTANT]
 > At the end of the curation process, check if you:
