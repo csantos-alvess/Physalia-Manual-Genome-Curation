@@ -11,6 +11,8 @@ Please find slides for Manual Genome Curation overview and Asssembly Metrics at 
 - Medium: icMagCera1.20240711.hap1.fa (coleoptera)
 - Hard: wsRidPisc1.20240921.haplotigs.fa (annelid)
 
+Choose one of them to work on the following questions:
+
  1. Which steps would you follow to remove prokaryote contamination?
  2. And eukaryotic one?
  3. Have you found remaining organelle scaffolds?
