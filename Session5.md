@@ -2,7 +2,6 @@
 
 **Session 5: Challenging genomes to curate and strategies to deal with them - Part 2**
 
-Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
 
 Gitpod: https://gitpod.io/new/#https://github.com/sanger-tol/rapid-curation
 
