@@ -2,7 +2,7 @@
 
 **Session 2.1: What to infer from assembly quality metrics?**
 
-Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
+Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_1_Manual_Curation_Overview.pdf](Session_1_Manual_Curation_Overview.pdf) and [Session_2.1.pdf] (Session_2.1.pdf).
 
 
 ## 1. Have a look at the k-mer distribution and some stats of these two assemblies
