@@ -41,7 +41,7 @@ Below we have 3 challenging genomes and you can choose any of them to work on to
 > [!IMPORTANT]
 > 1. Karyotype n = 40. 
 > 2. The hap1 and hap2 maps should be curated side-by-side. You will need to have two PretextView windows side-by-side.
-> 3. Look carefully at the sex chroms, does anything catch you attention?
+> 3. Look carefully at the sex chroms, does anything catch you attention? Tip: put them side-by-side in the map.
 
 - drUrtDioi1: tetrapoid dicot plant genome ``` (out.pretext) ```. Try to solve this puzzle!
 - laLemMinu1: monocot plant genome with phasing issues and misassemblies ``` (laLemMinu1_4_normal.pretext) ``` . Pacience leads to perfection!
