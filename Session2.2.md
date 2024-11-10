@@ -2,7 +2,7 @@
 
 **Session 2.2: Decontaminating your assembly**
 
-Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
+Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_2.2_Decon.pdf](docs/Session_2.2_Decon.pdf).
 
 
 ## Visualize the following datasets in Sanger BTK viewer (https://grit-btk.tol.sanger.ac.uk) 
