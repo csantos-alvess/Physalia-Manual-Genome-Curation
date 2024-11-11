@@ -66,7 +66,7 @@ Question 2. Are you curating a homogametic or heterogametic sex individual? Try 
 > 3. Painted chromosomes
 > 4. Generated AGP file
 
-## Generating fasta files for single and dual curation maps
+## Generating the curated fasta file
 
 
 Go to the assembly directory.
