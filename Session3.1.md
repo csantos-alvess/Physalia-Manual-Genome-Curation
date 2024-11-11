@@ -35,7 +35,7 @@ If you are locally, you also need to download ```rapid_curation ``` scripts from
 
 Choose one of the following to start:
 
-- ilCalCecr1 (lepdopitera)
+- icSchPect1 (coleoptera)
 - icPolPter2 (coleoptera)
 - ilCycPunc2 (lepdopitera)
 
