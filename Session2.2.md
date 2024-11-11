@@ -50,7 +50,7 @@ Now have a look at the decontaminated fasta files you just downloaded in Gitpod.
 
 ```
 
-grep -c <decont_fasta>
+grep -c ">" <decont_fasta>
 
 ```
 
