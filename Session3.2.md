@@ -163,7 +163,7 @@ python /workspace/rapid-curation/multi_join.py \
 <tolid>.hap2.1.primary.curated.fa
 ```
 
-In case you have some time remaining, give it a try on these assemblies:
+In case you have some time remaining, give it a try on this assembly:
 - rPodPit (rPodPit1_2_hr.pretext): use the primary assembly map to identify sex chromosomes (rPodPit1_1_normal.pretext).
 
 
