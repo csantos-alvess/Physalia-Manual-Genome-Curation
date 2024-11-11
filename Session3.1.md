@@ -47,3 +47,8 @@ Check if these genomes belong to homogametic or heterogametic samples and try to
 > 2. Added metadata
 > 3. Painted chromosomes
 > 4. Generated AGP file
+
+In case you have some remaining time, choose one of the following assemblies to give it a try:
+- drPruBrig1 (dicot)
+- gfRusFagi1 (fungi)
+- odPhaVent3 (sponge)
