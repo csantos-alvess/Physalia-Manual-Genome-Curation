@@ -37,7 +37,7 @@ If you are locally, you also need to download ```rapid_curation ``` scripts from
 Choose one of the following to work on:
 
 - drRubCaes1 (dicot)
-- idPolLara1 (diptera)
+- icQueLate1 (coleoptera) (icQueLate1_2_normal.pretext): use the primary assembly map to identify sex chromosomes (icQueLate1_1_normal.pretext).
 - ilEupHawo1 (lepidoptera)
 
 
@@ -162,6 +162,9 @@ python /workspace/rapid-curation/multi_join.py \
 <tolid>.hap2.1.primary.chromosome.list.csv
 <tolid>.hap2.1.primary.curated.fa
 ```
+
+In case you have some time remaining, give it a try on these assemblies:
+- rPodPit (rPodPit1_2_hr.pretext): use the primary assembly map to identify sex chromosomes (rPodPit1_1_normal.pretext).
 
 
 
