@@ -51,4 +51,4 @@ Check if these genomes belong to homogametic or heterogametic samples and try to
 In case you have some remaining time, choose one of the following assemblies to give it a try:
 - drPruBrig1 (dicot)
 - gfRusFagi1 (fungi)
-- odPhaVent3 (sponge)
+- odPhaVent3 (sponge). Did you find anything suspicious in your map, such as potential contamination? Have a BTK at BTK to check.
