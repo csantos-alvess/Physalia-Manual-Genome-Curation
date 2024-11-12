@@ -4,6 +4,9 @@
 
 Please find today slides at [Session_3_Beginning Manual Curation.pdf](docs/Session_3_Beginning Manual Curation.pdf).
 
+Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_2.2_Decon.pdf](docs/Session_2.2_Decon.pdf).
+
+
 Gitpod: https://gitpod.io/new/#https://github.com/sanger-tol/rapid-curation
 
 If you are using GitPod, before clicking in 'Continue' choose 'Large' for the third option (class). Then click 'Continue'.
