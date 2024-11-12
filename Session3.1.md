@@ -2,7 +2,7 @@
 
 **Session 3: Beginning manual curation (Single haplotype curation)**
 
-Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
+Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_3_Beginning Manual Curation.pdf](Session_3_Beginning Manual Curation.pdf).
 
 Gitpod: https://gitpod.io/new/#https://github.com/sanger-tol/rapid-curation
 
