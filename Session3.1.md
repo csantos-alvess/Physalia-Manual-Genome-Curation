@@ -2,7 +2,7 @@
 
 **Session 3: Beginning manual curation (Single haplotype curation)**
 
-Please find today slides at [Session_3_Beginning Manual Curation.pdf](docs/Session_3_Beginning Manual Curation.pdf).
+Please find today slides at (docs/Session_3_Beginning Manual Curation.pdf).
 
 
 Gitpod: https://gitpod.io/new/#https://github.com/sanger-tol/rapid-curation
