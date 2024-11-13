@@ -42,7 +42,8 @@ Choose one of the bird assemblies to work on. These maps already have MicroFinde
 - sHetFra1 (shark): find the nucmer files at https://drive.google.com/drive/folders/16KKCKawhKe_Fa3HwSNIsWZQ5jKjgbdcW?usp=share_link
 
 
-Both species have a karyotype of n = 40.
+Both bird species have a karyotype of n = 40.
+Shark karyoptype n = 51
 
 **The goal here is you to work on the micro and sex chromosomes as much as you can, saving time at the end to generate the curated fasta file.**
 
