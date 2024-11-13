@@ -2,7 +2,7 @@
 
 **Session 3.2: Dual Curation and curated fasta file generation**
 
-Please find slides for Manual Genome Curation overview and Asssembly Metrics at [slides_bga_2024.pdf](slides_bga_2024.pdf).
+Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_3.2_Generating_curated_fasta.pdf](Session_3.2_Generating_curated_fasta.pdf).
 
 Gitpod: https://gitpod.io/new/#https://github.com/sanger-tol/rapid-curation
 
