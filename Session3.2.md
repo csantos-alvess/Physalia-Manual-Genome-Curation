@@ -38,13 +38,11 @@ Choose one of the following to work on:
 
 - drRubCaes1 (dicot)
 - icQueLate1 (coleoptera) (icQueLate1_2_normal.pretext): use the primary assembly map to identify sex chromosomes (icQueLate1_1_normal.pretext).
-- ilEupHawo1 (lepidoptera)
-
+- ilEupHawo1 (lepidoptera): use nucmer alignment to identify sex chromosomes.
+- 
 
 Check if the insect genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes using Nucmer output files.
 
-> [!IMPORTANT]
-> We don't assign sex chromosomes to female diptera due to the high turnover rate.
 
 > [!TIP]
 > Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check data available for your assembly. 
@@ -163,7 +161,7 @@ python /workspace/rapid-curation/multi_join.py \
 <tolid>.hap2.1.primary.curated.fa
 ```
 
-In case you have some time remaining, give it a try on this assembly:
+In case you have some time remaining, give it a try on this reptile assembly:
 - rPodPit (rPodPit1_2_hr.pretext): use the primary assembly map to identify sex chromosomes (rPodPit1_1_normal.pretext).
 
 
