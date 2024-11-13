@@ -39,7 +39,7 @@ Choose one of the following to work on:
 - drRubCaes1 (dicot)
 - icQueLate1 (coleoptera) (icQueLate1_2_normal.pretext): use the primary assembly map to identify sex chromosomes (icQueLate1_1_normal.pretext).
 - ilEupHawo1 (lepidoptera): use nucmer alignment to identify sex chromosomes.
-- 
+
 
 Check if the insect genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes using Nucmer output files.
 
