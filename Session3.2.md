@@ -43,6 +43,8 @@ Choose one of the following to work on:
 
 Check if the insect genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes using Nucmer output files.
 
+> [!IMPORTANT]
+> Don't leave Gitpod terminal idle for more than 30 minutes. It will crash and you will lose all your edits! Run anything on the terminal before this timeframe.
 
 > [!TIP]
 > Go to tolqc (https://tolqc.cog.sanger.ac.uk) and check data available for your assembly. 
