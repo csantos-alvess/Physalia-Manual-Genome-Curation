@@ -120,7 +120,7 @@ curated.log
 
 ```
 python /workspace/rapid-curation/multi_join.py \
--t curated_HAP1.tpf \
+-t curated.tpf \
 -f original.fa \
 -c chrs.csv \
 -o <output_name>
