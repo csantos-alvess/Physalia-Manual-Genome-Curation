@@ -39,6 +39,7 @@ Choose one of the bird assemblies to work on. These maps already have MicroFinde
 
 - bBucCla1 ``` (merged_first_pass_max_20Mb_hr.pretext) ```
 - bAnsBra1 ``` (bAnsBra1_1_micros_hr.pretext) ```
+- sHetFra1 (shark): find the nucmer files at https://drive.google.com/drive/folders/16KKCKawhKe_Fa3HwSNIsWZQ5jKjgbdcW?usp=share_link
 
 
 Both species have a karyotype of n = 40.
