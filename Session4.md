@@ -45,6 +45,8 @@ Choose one of the bird assemblies to work on. These maps already have MicroFinde
 Both bird species have a karyotype of n = 40.
 Shark karyoptype n = 51
 
+Go to TreeVal and check for gene content in your bird micros, if you like.
+
 **The goal here is you to work on the micro and sex chromosomes as much as you can, saving time at the end to generate the curated fasta file.**
 
 > [!IMPORTANT]
