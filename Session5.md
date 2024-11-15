@@ -45,6 +45,7 @@ Below we have 3 challenging genomes and you can choose any of them to work on to
 
 - drUrtDioi1: tetrapoid dicot plant genome ``` (out.pretext) ```. Try to solve this puzzle!
 - laLemMinu1: monocot plant genome with phasing issues and misassemblies ``` (laLemMinu1_4_normal.pretext) ``` . Pacience leads to perfection!
+- pySymPilo4: protist with poor HiC and high chromosome number. Give a try on this puzzle!
 
 
 **Try your best, saving time at the end to generate the curated fasta file.**
