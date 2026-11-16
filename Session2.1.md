@@ -15,7 +15,7 @@ What would you say about:
 - Describe in a few words how you would expect the HiC map to be?  Which would be the main challenges for curation?
 - Would you suggest any alternatives/approaches to cope with the difficulties faced during manual curation?
 
-Feel free to explore the tolqc website (https://tolqc.cog.sanger.ac.uk). Just type the tolid on the top left and have a look at some assembly stats.
+Feel free to explore the tolqc website (https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cardamine_flexuosa/) and (https://tolqc.cog.sanger.ac.uk/darwin/insects/Bruchidius_varius/). If you want to check any other species, just type the tolid on the top left search bar and have a look at some assembly stats.
 
 
 **A. Dicot plant (ddCarFlex1)**
@@ -33,10 +33,11 @@ Feel free to explore the tolqc website (https://tolqc.cog.sanger.ac.uk). Just ty
 
 ## 2.	Can you spot what has been wrong with these two assemblies?
 
-**A.**
+**A.** Insect
 
-<img src="docs/Session2.1_fig_5.png" width="600"/>
 
-**B.**
+<img src="docs/ieSerIgni4.png" width="600"/>
+
+**B.** Sponge
 
 <img src="docs/Session2.1_fig_6.png" width="600"/>
