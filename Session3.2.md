@@ -9,8 +9,8 @@ Please download the data we are going to use in this session from [here](https:/
 
 
 ```
-wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_3.tar.xz
-tar xvfJ Day_3.tar.xz
+wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_3.tar.gz
+tar xvfJ Day_3.tar.gz
 ```
 
 
